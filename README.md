@@ -35,4 +35,4 @@ S → 0A0 | 1B1 | BB
 
 ## Video demostración
 
-<link YouTube no listado>
+<https://youtu.be/BMGZGiNFzac>
